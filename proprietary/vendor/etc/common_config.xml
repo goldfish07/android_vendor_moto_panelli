@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+    <!-- Item1:Language  Note:Defalut Language begin -->
+    <item name="Language" value="en-US"/>
+    <!-- end -->
+    <!-- Item2:AllApk  Note:All third Apks or custom's Apks begin -->
+    <item name="AllApk" value="BGK_lenovo_9_5,Wunzin,babe_000177_lenovo,Catfiz_2.3.1.663,InStore,MotorolaLauncherRes,MotorolaLauncherRes_retid"/>
+    <!-- end -->
+    <!-- Item3:ShowApk  Notoe:Show ccode third Apks or custom's Aps begin -->
+	<item name="ShowApk" value="BGK_lenovo_9_5,Wunzin,MotorolaLauncherRes"/>
+    <!-- end -->
+    <!-- Item4:Timezone  Notoe:Time zone begin -->
+    <!-- end -->
+    <!-- Item5:DefaultInputMethod  Notoe:Defalut input method begin -->
+    <!-- end -->
+    <!-- Item6:DefaultWallpaper  Notoe:Default wallpaper begin -->
+    <!-- end -->
+    <!-- Item7:SmsEncodeType  Notoe:Sms encode type begin -->
+    <!-- end -->
+    <!-- Item8:NumMinMatch  Notoe:Number match minLength begin -->
+    <!-- end -->
+    <!-- Item9:SpnFilePath  Notoe:Spn file path begin -->
+    <!-- end -->
+    <!-- Item10:ApnFilePath  Notoe:Apn file path begin -->
+    <!-- end -->
+    <!-- Item11:VspnGidlFilePath  Notoe:Virtual SPN by Gidl begin -->
+    <!-- end -->
+    <!-- Item12:VspnPnnFilePath  Notoe:Virtual SPN by Pnn begin -->
+    <!-- end -->
+    <!-- Item13:VspnSpnFilePath  Notoe:Virtual SPN by Spn begin -->
+    <!-- end -->	
+    <!-- Item14:VspnImsiFilePath  Notoe:Virtual SPN by Imsi begin -->
+    <!-- end -->
+    <!-- Item15:DefaultWorkspace  Notoe:Default workspace begin -->
+    <!-- end -->
+    <!-- Item16:ShowHyphenation  Notoe:InCall Dial number middle begin -->
+    <!-- end -->
+    <!-- Item17:Ecclist  Notoe:EccList path begin -->
+    <!-- end -->
+    <!-- Item18:CbonSet  Notoe:CB open/defalut shinbun begin -->
+    <!-- end -->
+    <!-- Item19:DateFormat  Notoe:Date format begin -->
+    <item name="DateFormat" value="yyyy-MM-dd" />
+    <!-- end -->
+    <!-- Item20:Use24hFormat  Notoe:Open 24 hour format begin -->
+    <!-- end -->
+    <!-- Item21:AddYahooBookmarks  Notoe:Add yahoo bookmarks begin -->
+    <!-- end -->
+    <!-- Item22:ChromeHomepage  Notoe:Chrome home page begin -->
+    <!-- end -->
+    <!-- Item23:ChromeBookmarks  Notoe:Chrome bookmarks begin -->
+    <!-- end -->
+    <!-- Item24:Homepage  Notoe:Defalut Browser Homepage begin -->
+    <!-- end -->
+    <!-- Item25:Bookmarks  Notoe:Defalut Browser Bookmarks begin -->
+    <!-- end -->	
+    <!-- Item26:SearchEngine  Notoe:Defalut Browser SearchEngine begin -->
+    <!-- end -->
+    <!-- Item27:ShowCMASTitleTime  Notoe:Show CB Title time begin -->
+    <!-- end -->
+    <!-- Item28:SpnNotDisplay  Notoe:Don't display Spn begin -->
+    <!-- end -->
+    <!-- Item29:CustomEhplmn  Notoe:Remove Roming begin -->
+    <!-- end -->
+    <!-- Item30:USSDBehindInCall  Notoe:USSD Dialog Behind InCall begin -->
+    <!-- end -->
+    <!-- Item31:USSDShowTitle  Notoe:USSD InputDialog show title  begin -->
+    <!-- end -->
+    <!-- Item32:MobileSetting Notoe:mcc for 2gonlydisable Setting by yuanzhiqiang@windmobi 2017-01-05 begin -->
+    <item name="Mccfor2GOnlyDisable" value="505|530"/>
+    <!-- end -->
+    <!-- Item33:MobileSetting Notoe:mnc for 2gonlydisable Setting by yuanzhiqiang@windmobi 2017-01-05 begin -->
+    <item name="Mncfor2GOnlyDisable" value="100|200|300"/>
+    <!-- end -->
+    <!-- Item34:AddElabel Notoe:Add E-label in setting -->
+    <item name="AddElabel" value="MY|PH|IN|ID"/>
+    <!-- end -->
+    <!-- Item35:LongEmergency Notoe:Long click EmergencyButton call 112 -->
+    <item name="LongEmergency" value="no"/>
+    <!-- end -->
+    <!-- Item35:CountryApk Notoe:add Country APK eg:MY:CalendarGoogle,Chrome;PH:CalendarGoogle -->
+    <item name="CountryApk" value="RETID:MotorolaLauncherRes_retid"/>
+    <item name="CountryHideApk" value="RETID:MotorolaLauncherRes"/>
+    <!-- end -->
+    <!-- caopei@wind-mobi.com 2017.03.01 start-->
+    <!-- fix panell 1440 show SPN in notification drawer-->
+    <item name="NetworkInfoLine1" value="yes"/>
+    <!-- caopei@wind-mobi.com 2017.03.01 end-->
+    <item name="QueryNetworksWithoutACT" value="yes"/>
+	
+	<item name="MCCHideAndShowApks" value="414:com.sg.wunzin,com.bit.androsmart.kbinapp" />
+    <item name="ChannelRingDir" value="noset"/>
+    <!-- Item64:srorage uiformat  Notoe: by yuanzhiqiang  begin -->
+    <item name="StorageUiFormat" value="yes"/>
+    <!-- end -->
+</table>

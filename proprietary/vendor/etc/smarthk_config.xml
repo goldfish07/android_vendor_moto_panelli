@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+    <!-- Item1:Language  Note:Defalut Language begin -->
+    <!-- end -->
+    <!-- Item2:AllApk  Note:All third Apks or custom's Apks begin -->	
+    <!-- end -->
+    <!-- Item3:ShowApk  Notoe:Show ccode third Apks or custom's Aps begin -->
+	
+    <!-- end -->
+    <!-- Item4:Timezone  Notoe:Time zone begin -->
+    <!-- end -->
+    <!-- Item5:DefaultInputMethod  Notoe:Defalut input method begin -->
+    <!-- end -->
+    <!-- Item6:DefaultWallpaper  Notoe:Default wallpaper begin -->
+    <!-- end -->
+    <!-- Item7:SmsEncodeType  Notoe:Sms encode type begin -->
+    <!-- end -->
+    <!-- Item8:NumMinMatch  Notoe:Number match minLength begin -->
+    <!-- end -->
+    <!-- Item9:SpnFilePath  Notoe:Spn file path begin -->
+    <!-- end -->
+    <!-- Item10:ApnFilePath  Notoe:Apn file path begin -->
+    <!-- end -->
+    <!-- Item11:VspnGidlFilePath  Notoe:Virtual SPN by Gidl begin -->
+    <!-- end -->
+    <!-- Item12:VspnPnnFilePath  Notoe:Virtual SPN by Pnn begin -->
+    <!-- end -->
+    <!-- Item13:VspnSpnFilePath  Notoe:Virtual SPN by Spn begin -->
+    <!-- end -->	
+    <!-- Item14:VspnImsiFilePath  Notoe:Virtual SPN by Imsi begin -->
+    <!-- end -->
+    <!-- Item15:DefaultWorkspace  Notoe:Default workspace begin -->
+    <!-- end -->
+    <!-- Item16:ShowHyphenation  Notoe:InCall Dial number middle begin -->
+    <!-- end -->
+    <!-- Item17:Ecclist  Notoe:EccList path begin -->
+    <!-- end -->
+    <!-- Item18:CbonSet  Notoe:CB open/defalut shinbun begin -->
+    <!-- end -->
+    <!-- Item19:DateFormat  Notoe:Date format begin -->
+    <!-- end -->
+    <!-- Item20:Use24hFormat  Notoe:Open 24 hour format begin -->
+    <!-- end -->
+    <!-- Item21:AddYahooBookmarks  Notoe:Add yahoo bookmarks begin -->
+    <!-- end -->
+    <!-- Item22:ChromeHomepage  Notoe:Chrome home page begin -->
+    <!-- end -->
+    <!-- Item23:ChromeBookmarks  Notoe:Chrome bookmarks begin -->
+    <!-- end -->
+    <!-- Item24:Homepage  Notoe:Defalut Browser Homepage begin -->
+    <!-- end -->
+    <!-- Item25:Bookmarks  Notoe:Defalut Browser Bookmarks begin -->
+    <!-- end -->	
+    <!-- Item26:SearchEngine  Notoe:Defalut Browser SearchEngine begin -->
+    <!-- end -->
+    <!-- Item27:ShowCMASTitleTime  Notoe:Show CB Title time begin -->
+    <!-- end -->
+    <!-- Item28:SpnNotDisplay  Notoe:Don't display Spn begin -->
+    <!-- end -->
+    <!-- Item29:CustomEhplmn  Notoe:Remove Roming begin -->
+    <!-- end -->
+    <!-- Item30:USSDBehindInCall  Notoe:USSD Dialog Behind InCall begin -->
+    <!-- end -->
+    <!-- Item31:USSDShowTitle  Notoe:USSD InputDialog show title  begin -->
+    <!-- end -->
+    <!-- Item82: Dual simlock if sim depend or not begin-->
+    <item name="DualSmlDepend" value="none"/>   
+    <!-- end --> 
+    <!-- Item83:Sml ui custom or  not begin-->
+    <item name="SmlUICustom" value="yes"/>
+    <!-- end -->
+</table>
